@@ -4,12 +4,12 @@ Arduino Line Following Robot
 
 ## User Design
 
--[x] Designed and produced a line-following robot themed after Lightning McQueen. 
--[x] Using an Arduino board, IR Sensors and Motors.
--[x] Able to provide K-12 students with their first hand-on STEM-related experience. 
--[x] Constant tests were done on the robot and its results showed an outstanding performance in all fronts, with the robot being able to thoroughly follow the line at a constant velocity. 
--[x] Robotic equipment for STEM education with reduced costs, while providing reliability and durability.
--[x] Very easy assembly with instructions for kids.
+* [x] Designed and produced a line-following robot themed after Lightning McQueen. 
+* [x] Using an Arduino board, IR Sensors and Motors.
+* [x] Able to provide K-12 students with their first hand-on STEM-related experience. 
+* [x] Constant tests were done on the robot and its results showed an outstanding performance in all fronts, with the robot being able to thoroughly follow the line at a constant velocity. 
+* [x] Robotic equipment for STEM education with reduced costs, while providing reliability and durability.
+* [x] Very easy assembly with instructions for kids.
 
 ## License
 
