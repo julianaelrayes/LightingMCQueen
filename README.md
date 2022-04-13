@@ -11,6 +11,10 @@ Arduino Line Following Robot
 * [x] Robotic equipment for STEM education with reduced costs, while providing reliability and durability.
 * [x] Very easy assembly with instructions for kids.
 
+## Video
+
+https://github.com/julianaelrayes/LightingMCQueen/blob/main/My%20Movie.mov
+
 ## License
 
     Copyright [Juliana El Rayes]
