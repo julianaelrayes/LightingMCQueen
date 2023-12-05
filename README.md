@@ -1,4 +1,4 @@
-# LightingMCQueen
+# LightningMCQueen
 
 Arduino Line Following Robot
 
